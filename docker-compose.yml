@@ -4,6 +4,6 @@ services:
       context: .
       args:
         STUDENT_NAME: "Silvi Dian Pramana"
-        STUDENT_NIM: "00000079493"
+        STUDENT_NIM: "00000083585"
     ports:
       # TODO
