@@ -6,4 +6,5 @@ services:
         STUDENT_NAME: "Silvi Dian Pramana"
         STUDENT_NIM: "00000083585"
     ports:
-      # TODO
+      EXPOSE 5173
+
